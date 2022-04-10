@@ -1,0 +1,2 @@
+https://iss.moex.com/iss/history/engines/stock/markets/shares/boards/TQBR/securities/
+.json?history.columns=TRADEDATE,SHORTNAME,OPEN&iss.meta=off&
